@@ -14,6 +14,6 @@ export const Bird = ({ birdBottom, birdLeft }) => {
       left: birdLeft - (birdWidth / 2)
     }}/>
 
-  );
+  )
 }
 

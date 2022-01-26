@@ -31,6 +31,5 @@ export const Obstacles = ({ color, obstaclesLeft, obstaclesWidth, obstaclesHeigh
     </>
 
   )
-    ;
 }
 
